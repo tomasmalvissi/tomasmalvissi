@@ -63,7 +63,7 @@ Sites I designed and built for clients and companies:
 |---|---|---|
 | **Monarcas Group** | Corporate site for a custom software development studio. | [monarcas.com.ar](https://monarcas.com.ar) · [code](https://github.com/the-monarchs/MNCH) |
 | **MM Viajes** | Landing page for a private passenger transport service. | [live](https://tomasmalvissi.github.io/MMViajes/) · [code](https://github.com/tomasmalvissi/MMViajes) |
-| **Angela Ellena** | Bilingual (ES/EN) portfolio for a fashion designer, showcasing a fashion production with photo and video galleries. | [live](https://angelaellena.vercel.app) |
+| **Angela Ellena** | Bilingual (ES/EN) portfolio for a fashion designer, with photo and video galleries. Plain HTML, CSS and JS, no build step. | [live](https://angelaellena.vercel.app) · [code](https://github.com/tomasmalvissi/portfolio-angela) |
 | **MT Software Solutions** | Product landing for a business management software company. | [code](https://github.com/tomasmalvissi/MTSoftware) |
 
 ### 📚 About the rest of the repos
