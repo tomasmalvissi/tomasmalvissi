@@ -54,8 +54,17 @@ Most of my professional work lives in **private repositories** for organizations
 | [**lebrondailygame**](https://github.com/tomasmalvissi/lebrondailygame) | Bot that posts Lakers game schedules and results to [@lebrondailygame](https://x.com/lebrondailygame), running on a schedule with GitHub Actions. | .NET 8 · Hosted services · X API · GitHub Actions |
 | [**TesisAlmacen**](https://github.com/tomasmalvissi/TesisAlmacen) | Point-of-sale and inventory system for small stores: sales, purchases, cash register, suppliers and stats dashboard. | Blazor WASM · ASP.NET Core API · SQL Server |
 | [**ChatApp**](https://github.com/tomasmalvissi/ChatApp) | Real-time chat with user accounts and persisted messages. | Blazor WASM · SignalR · IdentityServer · MudBlazor |
-| [**MNCH**](https://github.com/the-monarchs/MNCH) | Landing page for Monarcas Group — live at [monarcas.com.ar](https://monarcas.com.ar). | HTML · CSS |
-| [**MMViajes**](https://github.com/tomasmalvissi/MMViajes) | Landing page for a private passenger transport service — [live demo](https://tomasmalvissi.github.io/MMViajes/). | HTML · CSS |
+
+### 🌐 Websites & landing pages
+
+Sites I designed and built for clients and companies:
+
+| Site | What it is | Links |
+|---|---|---|
+| **Monarcas Group** | Corporate site for a custom software development studio. | [monarcas.com.ar](https://monarcas.com.ar) · [code](https://github.com/the-monarchs/MNCH) |
+| **MM Viajes** | Landing page for a private passenger transport service. | [live](https://tomasmalvissi.github.io/MMViajes/) · [code](https://github.com/tomasmalvissi/MMViajes) |
+| **Angela Ellena** | Bilingual (ES/EN) portfolio for a fashion designer, showcasing a fashion production with photo and video galleries. | [live](https://angelaellena.vercel.app) |
+| **MT Software Solutions** | Product landing for a business management software company. | [code](https://github.com/tomasmalvissi/MTSoftware) |
 
 ### 📚 About the rest of the repos
 
