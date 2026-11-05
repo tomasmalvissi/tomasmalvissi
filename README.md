@@ -68,7 +68,7 @@ Sites I designed and built for clients and companies:
 
 ### 📚 About the rest of the repos
 
-The archived repositories (2019–2021) are coursework and practice from my *Tecnicatura Superior en Desarrollo de Software*. I keep them public on purpose — they're part of the path.
+The archived repositories are coursework and practice projects from my *Tecnicatura Superior en Desarrollo de Software*. I keep them public on purpose — they're part of the path.
 
 ---
 
