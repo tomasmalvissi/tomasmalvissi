@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tomás Malvissi 👋</h1>
 
 <p align="center">
-  <b>.NET Software Developer</b> · Córdoba, Argentina
+  <b>Senior Software Engineer · .NET</b> · Córdoba, Argentina
 </p>
 
 <p align="center">
@@ -11,9 +11,9 @@
 
 ---
 
-I build business software on the .NET ecosystem — from back-office APIs to web, desktop and mobile clients.
+Senior Software Engineer with a long track record building business software on the .NET ecosystem — from back-office APIs to web, desktop and mobile clients.
 
-Most of my professional work lives in **private repositories** for organizations and companies, so what you see here is only a small part of it: academic projects, freelance work and side projects that show how I got here.
+Most of my professional work lives in **private repositories** for organizations and companies, so what you see here is only a small part of it: client work, side projects and the academic projects that show how I got here.
 
 ### 💼 What I do
 
@@ -68,7 +68,7 @@ Sites I designed and built for clients and companies:
 
 ### 📚 About the rest of the repos
 
-The older repositories (2019–2021) are coursework and practice from my *Tecnicatura Superior en Desarrollo de Software*. I keep them public on purpose — they're part of the path.
+The archived repositories (2019–2021) are coursework and practice from my *Tecnicatura Superior en Desarrollo de Software*. I keep them public on purpose — they're part of the path.
 
 ---
 
